@@ -37,13 +37,6 @@
 
 ---
 
-## 🐍 
-<div align="center">
-  <img src="https://github.com/thecrattor7/thecrattor7/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ## 🌐 Contato
 <div align="center">
   <a href="https://www.linkedin.com/">
