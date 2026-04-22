@@ -39,7 +39,7 @@
 
 ## 🐍 
 <div align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/thecrattor7/thecrattor7/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
