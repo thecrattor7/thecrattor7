@@ -6,10 +6,18 @@
 ---
 
 ## 🚀 Sobre mim
-💻 Estudante de ADS TEC
+💻 Estudante de ADS
 🎨 Focado em Front-End moderno e responsivo  
 🔐 Explorando Cybersegurança & Pentest  
 ⚡ Construindo aplicações bonitas **e seguras**
+
+---
+
+## 📊 Estatísticas
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thecrattor7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrattor7&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
@@ -29,7 +37,7 @@
 
 ---
 
-## 🐍
+## 🐍 
 <div align="center">
   <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
 </div>
